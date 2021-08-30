@@ -1,0 +1,7 @@
+organization=r-ohno
+projectKey=r-ohno_jUnit
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.22868
+dashboardUrl=https://sonarcloud.io/dashboard?id=r-ohno_jUnit
+ceTaskId=AXuVk-8VrMwxlvvGb1KU
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXuVk-8VrMwxlvvGb1KU

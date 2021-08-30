@@ -1,0 +1,86 @@
+
+Hcom.test.HelloWorld#createEchoStr([Ljava/lang/String;)Ljava/lang/String;T
+JC:/eclipse/pleiades/workspace/jUnit/src/main/java/com/test/HelloWorld.java (#"5*Ö
+2T
+JC:/eclipse/pleiades/workspace/jUnit/src/main/java/com/test/HelloWorld.java
+ 
+(}
+{
+T
+JC:/eclipse/pleiades/workspace/jUnit/src/main/java/com/test/HelloWorld.java
+ 
+(
+sjava.lang.String"__id*
+""¢
+ü
+T
+JC:/eclipse/pleiades/workspace/jUnit/src/main/java/com/test/HelloWorld.java
+ 
+(
+sjava.lang.String"
+__arrayGet*
+
+argsjava.lang.String[]*
+""*
+3
+1*à
+3T
+JC:/eclipse/pleiades/workspace/jUnit/src/main/java/com/test/HelloWorld.java (õò
+T
+JC:/eclipse/pleiades/workspace/jUnit/src/main/java/com/test/HelloWorld.java (
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+sjava.lang.String2append(Ljava/lang/String;)âÜ
+T
+JC:/eclipse/pleiades/workspace/jUnit/src/main/java/com/test/HelloWorld.java (
+%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+%2java.lang.StringBuilder*
+ 2append(Ljava/lang/String;)*
+2*Ÿ
+5T
+JC:/eclipse/pleiades/workspace/jUnit/src/main/java/com/test/HelloWorld.java	' 	(0ëé
+T
+JC:/eclipse/pleiades/workspace/jUnit/src/main/java/com/test/HelloWorld.java	 	(&
+%0java.lang.StringBuilder"java.lang.StringBuilder¬
+ø
+T
+JC:/eclipse/pleiades/workspace/jUnit/src/main/java/com/test/HelloWorld.java	 	(1
+%1"3java.lang.StringBuilder#<init>(Ljava/lang/String;)V*
+
+%0java.lang.StringBuilder*	
+echo : ü
+ú
+T
+JC:/eclipse/pleiades/workspace/jUnit/src/main/java/com/test/HelloWorld.java	 	(2
+sbjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder*
+2*˘
+1T
+JC:/eclipse/pleiades/workspace/jUnit/src/main/java/com/test/HelloWorld.java (‘—
+T
+JC:/eclipse/pleiades/workspace/jUnit/src/main/java/com/test/HelloWorld.java (
+%4java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()æª
+T
+JC:/eclipse/pleiades/workspace/jUnit/src/main/java/com/test/HelloWorld.java (#
+%5java.lang.String")java.lang.String#trim()Ljava/lang/String;*
+
+%4java.lang.String2trim()í
+è
+T
+JC:/eclipse/pleiades/workspace/jUnit/src/main/java/com/test/HelloWorld.java ($
+retjava.lang.String"__id*
+
+%5java.lang.String"q
+T
+JC:/eclipse/pleiades/workspace/jUnit/src/main/java/com/test/HelloWorld.java (
+
+retjava.lang.String:
+argsjava.lang.String[]B"
+com.test.HelloWorld
